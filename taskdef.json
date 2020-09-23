@@ -60,7 +60,7 @@
   "compatibilities": [
     "EC2"
   ],
-  "taskDefinitionArn": <TASK_DEFINITION>,
+  "taskDefinitionArn": <IMAGE1_NAME>,
   "family": "td-simplehttp-ec2",
   "requiresAttributes": [
     {
