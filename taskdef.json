@@ -31,7 +31,7 @@
       "secrets": null,
       "dockerSecurityOptions": null,
       "memory": null,
-      "memoryReservation": 256,
+      "memoryReservation": 356,
       "volumesFrom": [],
       "stopTimeout": null,
       "image": "527275128244.dkr.ecr.ap-southeast-2.amazonaws.com/ecr-simplehttp:1de7f77",
